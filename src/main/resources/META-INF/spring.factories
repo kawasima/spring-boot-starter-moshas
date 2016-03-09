@@ -1,0 +1,5 @@
+# AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=net.unit8.moshas.boot.autoconfigure.MoshasAutoConfiguration
+
+# TemplateAvailabilityProvider
+org.springframework.boot.autoconfigure.template.TemplateAvailabilityProvider=net.unit8.moshas.boot.MoshasTemplateAvailabilityProvider
